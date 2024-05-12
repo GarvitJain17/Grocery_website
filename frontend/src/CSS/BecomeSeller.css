@@ -1,0 +1,99 @@
+.main-heading{
+    width:100%;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* margin-left:10%; */
+}
+.nohighlight{
+    width:33%;
+    background-color: azure;
+    /* border: 1px solid black; */
+    box-shadow: 2px 4px 4px black;
+    text-align: center;
+    margin-top:10px;
+    margin-left:2px;
+    margin-right:2px;
+    padding:5px;
+}
+.highlight{
+    width:33%;
+    background-color: rgb(249, 211, 45);
+    color:rgb(7, 7, 7);
+    /* box-shadow: 2px 4px 4px rgba(244, 91, 2, 0.979); */
+    text-align: center;
+    margin-top:10px;
+    margin-left:2px;
+    margin-right:2px;
+    padding:5px;
+}
+h2{
+    font-size:25px;
+    /* margin-left:300px; */
+    font-weight: 100;
+}
+.input-field{
+    width:50%;
+    /* margin-left:300px; */
+    background-color: azure;
+    padding:10px;
+    color:black;
+    /* box-shadow: 1px 2px 2px black;*/
+    border: 1px solid gray;
+
+}
+h3{
+    font-size: 17px;
+    color:gray;
+    /* margin-left:300px; */
+}
+.nextbutton1{
+   background-color: rgb(19, 197, 207);
+   margin-top: 260px;
+   border-radius: 5px;
+   width:8%;
+   position: absolute;
+   margin-left: 500px;
+   padding: 2px;
+}
+.nextbutton2{
+    background-color: rgb(19, 197, 207);
+    margin-top: 280px;
+    border-radius: 5px;
+    width:8%;
+    position: absolute;
+    margin-left: 500px;
+    padding: 2px;
+ }
+
+.prevbutton2{
+    background-color: rgb(221, 219, 219);
+    margin-top: 280px;
+    border-radius: 5px;
+    width:8%;
+    margin-left: 350px;
+    position: absolute;
+    padding: 2px;
+ }
+ .prevbutton3{
+    background-color: rgb(221, 219, 219);
+    margin-top: 200px;
+    border-radius: 5px;
+    width:8%;
+    margin-left: 350px;
+    position: absolute;
+    padding: 2px;
+ }
+.submitbutton{
+    background-color: rgb(19, 197, 207);
+    margin-top: 200px;
+    border-radius: 5px;
+    width:8%;
+    position: absolute;
+    margin-left: 500px;
+    padding: 2px;
+}
+ 
+ .mine{
+    margin-left: 300px;
+ }
